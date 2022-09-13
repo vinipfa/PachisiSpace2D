@@ -19,7 +19,7 @@ Cada cor terá um poder especial que quando selecionado poderá ser utilizado no
 para realizar o seu movimento, caso contrário as suas ações ocorrem de forma randômica durante o turno. Assim, o time que conseguir trazer todos os seus integrantes 
 para a sala primeiro recebe a missão de prêmio.
 
-Youtube:
+Vídeo 1 - Youtube:
 https://youtu.be/2rTtD1d7qn8
 
 Apresentação:
